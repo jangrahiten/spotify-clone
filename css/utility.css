@@ -1,0 +1,49 @@
+.border{
+    border: 2px solid red;
+}
+
+.flex{
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.items-center{
+    align-items: center;
+}
+
+.m1{
+    margin: 8px;
+}
+.invert{
+    filter: invert(1);
+}
+
+.crsr-ptr{
+    cursor: pointer;
+}
+
+.p1{
+    padding-left: 1.4vw;
+    padding-top: 2vh;
+
+}
+
+.ml-none{
+    margin-left: 0;
+}
+
+.border-radius-fixed{
+    border-radius: 0.5em;
+}
+
+.pos-rel{
+    position: relative;
+}
+
+.size-38{
+    height: 38px;
+    width: 38px;
+}
